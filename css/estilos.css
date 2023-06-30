@@ -27,6 +27,7 @@ h1, h2, h3, h4, h5, h6 {
     display:flex;
     width: 100%;
     justify-content: center;
+    margin-bottom: 20PX;
 }
 
 form {
@@ -92,8 +93,8 @@ button:hover {
 a {
     padding: 8px;
     margin:4px;
-    background-color: #fdab13;
-    color: #ffffff;
+    background-color: #69c7ca;
+    color: #000000;
     border: none;
     border-radius: 5px;
     cursor: pointer;
@@ -102,5 +103,6 @@ a {
 }
 
 a:hover {
-    background-color: #cd7b00;
+    background-color: #2600ff;
+    color: white;
 }
